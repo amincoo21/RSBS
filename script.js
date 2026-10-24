@@ -15,7 +15,7 @@ if (menu && nav) {
 const year = document.getElementById('year');
 if (year) year.textContent = new Date().getFullYear();
 
-/* ===== RSBS live chat (tawk.to) — added 2026-10-23 ===== */
+/* ===== RSBS live chat (tawk.to) — added 2026-10-24 ===== */
 var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 (function () {
   var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
